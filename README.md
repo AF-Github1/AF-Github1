@@ -5,6 +5,8 @@ At the moment this is mostly a info dump account for documentation I make while 
 
 # To be added
 
+Django documentation
+
 ----
 
 
