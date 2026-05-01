@@ -1,11 +1,9 @@
-At the moment this is mostly a info dump account for documentation I make while learning different plataforms and services
+This github includes different projects made for the sake of projects either done in the context of academic work, professional certifications or independent learning.
 
 **Contact information is in my bio**
 
 
 # To be added
-
-
 ----
 
 
